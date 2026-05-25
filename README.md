@@ -6,8 +6,6 @@ Tool Hub Release là repo giới thiệu bản public của ToolHub. Repo này c
 
 - Vercel Production: https://tool-hub.vercel.app
 
-> Ghi chú: `toolhub.vercel.app` đang thuộc một deployment khác, nên bản public hiện dùng domain `tool-hub.vercel.app`.
-
 ## ToolHub là gì?
 
 ToolHub là dashboard web tổng hợp các công cụ theo dõi dữ liệu thị trường. Phiên bản hiện tại tập trung vào nhóm giá hàng hóa và tỷ giá, thiết kế theo dạng dashboard hiện đại, có sidebar theo danh mục và hỗ trợ tiếng Việt/tiếng Anh.
