@@ -5,7 +5,6 @@ Tool Hub Release là repo giới thiệu bản public của ToolHub. Repo này c
 ## Link public
 
 - Vercel Production: https://tool-hub.vercel.app
-- Source chính: https://github.com/doanlong266/toolhub
 
 > Ghi chú: `toolhub.vercel.app` đang thuộc một deployment khác, nên bản public hiện dùng domain `tool-hub.vercel.app`.
 
